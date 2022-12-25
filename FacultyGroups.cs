@@ -18,7 +18,7 @@ namespace ScheduleEditorClassLibrary
 
     public class Group
     {
-        public List<AcademicClass> Classes { get; set; } // ScheduleAcademicClass
+        public List<AcademicClass> Classes { get; set; } //  ScheduleAcademicClass
 
         public Group(List<AcademicClass> classes)
         {
