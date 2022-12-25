@@ -1,0 +1,7 @@
+C:\Users\Stanislav\Desktop\Schedule_Editor-master\obj\Debug\Sсhedule_Editor.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Desktop\Schedule_Editor-master\obj\Debug\Sсhedule_Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stanislav\Desktop\Schedule_Editor-master\obj\Debug\Shedule_Editor.g.resources
+C:\Users\Stanislav\Desktop\Schedule_Editor-master\obj\Debug\Schedule_Editor.ScheduleEditor.resources
+C:\Users\Stanislav\Desktop\Schedule_Editor-master\obj\Debug\Shedule_Editor.Properties.Resources.resources
+C:\Users\Stanislav\Desktop\Schedule_Editor-master\obj\Debug\Sсhedule_Editor.csproj.GenerateResource.cache
+C:\Users\Stanislav\Desktop\Schedule_Editor-master\obj\Debug\Sсhedule_Editor.csproj.CoreCompileInputs.cache
